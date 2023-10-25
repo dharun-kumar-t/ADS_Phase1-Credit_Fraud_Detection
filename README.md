@@ -1,4 +1,4 @@
-# ADS_Phase3-CreditCard_Fraud_Detection
+# ADS_Phase1-CreditCard_Fraud_Detection
 7321- NANDHA COLLEGE OF TECHNOLOGY / APPLIED DATA SCIENCE - PHASE 1 - CREDIT CARD FRAUD DETECTION
 
 ## Team
