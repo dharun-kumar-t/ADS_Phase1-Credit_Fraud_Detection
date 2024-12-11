@@ -46,21 +46,3 @@ Detecting outliers (potentially fraudulent transactions) is a crucial step in th
 
 The results of both algorithms are evaluated to identify potential fraudulent transactions. The `outlier_fraction` is calculated as the ratio of fraudulent cases to valid transactions.
 
-## Getting Started
-
-To run this project on your local machine, follow these steps:
-
-### Prerequisites
-
-Ensure you have the following prerequisites installed:
-
-- Python 3.x
-- Required Python libraries: numpy, pandas, matplotlib, seaborn, scipy, scikit-learn
-
-### Installation
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   $ git clone https://github.com/yourusername/credit-card-fraud-detection.git
-   $ cd credit-card-fraud-detection
